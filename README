@@ -1,0 +1,4 @@
+This is a simple Java implimentation for Iterative Binary Tree traversals (infix, postfix, prefix).
+The one that gave me the hardest amount of trouble was the postfix iterative traversal.
+
+Takes no parameters, the main class is the BinaryTreePrinter.
